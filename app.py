@@ -273,11 +273,11 @@ st.write('---')
 st.write('# About the Author:')
 
 # Author name
-st.write('<p style="color:white; font-size: 30px;">Shaurya Srivastava</br></p>', unsafe_allow_html=True)
+st.write('<p style="color:white; font-size: 30px;">Vedansh Gupta</br></p>', unsafe_allow_html=True)
 
 st.write('# About the Contributer:')
 
-st.write('<p style="color:white; font-size: 30px;">Vedansh Gupta, Sheetal, Nitya Umrao, Suhani Sharma</p>', unsafe_allow_html=True)
+st.write('<p style="color:white; font-size: 30px;"> Sheetal, Nitya Umrao, Suhani Sharma,Shaurya Srivasatava</p>', unsafe_allow_html=True)
 
 # Social media links
 st.write('## Connect with me on social media')
